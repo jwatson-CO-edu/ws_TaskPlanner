@@ -1,0 +1,6 @@
+Invoking command in '/home/james/ws_TaskPlanner/src/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/james/ws_TaskPlanner/src/ros_tutorials/turtlesim_msgs -DCMAKE_INSTALL_PREFIX=/home/james/ws_TaskPlanner/src/install/turtlesim_msgs
+Invoked command in '/home/james/ws_TaskPlanner/src/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/james/ws_TaskPlanner/src/ros_tutorials/turtlesim_msgs -DCMAKE_INSTALL_PREFIX=/home/james/ws_TaskPlanner/src/install/turtlesim_msgs
+Invoking command in '/home/james/ws_TaskPlanner/src/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/james/ws_TaskPlanner/src/build/turtlesim_msgs -- -j8 -l8
+Invoked command in '/home/james/ws_TaskPlanner/src/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/james/ws_TaskPlanner/src/build/turtlesim_msgs -- -j8 -l8
+Invoking command in '/home/james/ws_TaskPlanner/src/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/james/ws_TaskPlanner/src/build/turtlesim_msgs
+Invoked command in '/home/james/ws_TaskPlanner/src/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/james/ws_TaskPlanner/src/build/turtlesim_msgs

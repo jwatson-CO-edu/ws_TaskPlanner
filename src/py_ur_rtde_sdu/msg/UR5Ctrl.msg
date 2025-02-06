@@ -1,0 +1,6 @@
+std_msgs/Float32MultiArray jointTarget
+std_msgs/Float32MultiArray poseTarget
+float32 speed
+float32 accel
+std_msgs/Float32MultiArray jointActual
+std_msgs/Float32MultiArray poseActual
